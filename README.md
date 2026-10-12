@@ -1,2 +1,2 @@
 # Study-Group-
-This is to develop our study group for enhancing academic performances 
+This is our project to form study group in order to enhance our class's academic performances by the end of the year.  
